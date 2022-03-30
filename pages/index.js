@@ -38,7 +38,7 @@ const Index = () => (
             </Link>
           </li>
           <li>
-            <a href="/docs/page">Visit External URL</a>
+            <a href="/tutorials/arduino/">Visit External URL</a>
           </li>
         </ul>
       </nav>
