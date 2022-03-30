@@ -21,8 +21,8 @@ module.exports = {
       },
       // Rewriting to an external URL
       {
-        source: '/docs/:slug',
-        destination: 'https://docs.luos.io/docs/:slug',
+        source: '/tutorials/:slug',
+        destination: 'https://docs.luos.io/tutorials/:slug',
       },
     ]
   },
