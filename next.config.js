@@ -22,7 +22,7 @@ module.exports = {
       // Rewriting to an external URL
       {
         source: '/docs/:slug',
-        destination: 'http://example.com/docs/:slug',
+        destination: 'https://docs.luos.io/docs/:slug',
       },
     ]
   },
